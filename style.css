@@ -1,0 +1,25 @@
+table{
+    background-color: bisque;
+    border: 1px solid black;
+    width: 85%;
+    margin: 0 auto;
+    
+}
+h1{
+    text-align: center;
+}
+thead{
+    background-color: rgb(199, 148, 199);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+tr td:first-child{
+    background-color: rgb(199, 148, 199);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+td{
+    border: 1px solid black;
+}
